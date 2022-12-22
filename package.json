@@ -9,7 +9,7 @@
     "concurrently": "^5.2.0",
     "config": "^3.3.1",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.7",
     "nodemon": "^2.0.3",
     "react": "^16.13.1",
